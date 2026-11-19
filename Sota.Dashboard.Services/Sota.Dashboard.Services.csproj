@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Sota.Dashboard.Common\Sota.Dashboard.Common.csproj" />
+    <ProjectReference Include="..\Sota.Dashboard.DataAccess\Sota.Dashboard.DataAccess.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>
